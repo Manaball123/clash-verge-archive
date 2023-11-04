@@ -8,6 +8,9 @@
 <h3 align="center">
 A <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="https://github.com/tauri-apps/tauri">tauri</a>.
 </h3>
+## NOTE: THE ORIGINAL REPO IS NOW PURGED(most likely discontinued)
+this repo probably won't ever be updated because of this  
+all credits goes to ttps://github.com/zzzgydi/clash-verge 
 
 ## Features
 
